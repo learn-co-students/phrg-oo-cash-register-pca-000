@@ -43,4 +43,7 @@ Take it one step at a time!
 
 **Hint #3:** The `void_last_transaction` method will remove the last transaction from the total. You'll need to make an additional attribute accessor and keep track of that last transaction amount somehow. In what method of the class are you working with an individual item?
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-cash-register/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-cash-register/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Object Oriented Cash Register</p>
